@@ -1,0 +1,26 @@
+
+.maindiv {
+ margin-left: 18%;
+ margin-right: 18%;
+}
+.data {
+    display: inline-block;
+    width: 70%;
+    margin-left: 5%;
+}
+aside {
+    width: 300px;
+    height: 300px;
+    float: left;
+}
+.userrep {
+    margin-top: 140px;
+    margin-left: -350px;
+}
+.photo {
+    width: 330px;
+    height: 330px;
+}
+a {
+    text-decoration: none; 
+}
